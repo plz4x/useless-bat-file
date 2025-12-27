@@ -1,2 +1,3 @@
-# useless-bat-file
-a useless bat file because why not
+why did i make this
+
+@pause is the only bat command i know lol
