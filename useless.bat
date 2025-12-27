@@ -1,1 +1,1 @@
-@pause
+@echo why did i make this
